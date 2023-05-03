@@ -8,6 +8,12 @@ The main difference is that this code uses the Random Forest algorithm, instead 
 
 Although using Random Forest is extremely slow in comparison, the accuracy of the prediction is much greater.
 
+## Example usage
+
+```bash
+  python3 shopping.py shopping.csv
+```
+
 ## Other Info
 
 The original specification doc can be found here: https://cs50.harvard.edu/ai/2020/projects/4/shopping/
